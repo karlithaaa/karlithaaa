@@ -39,3 +39,19 @@
 </div>
 
 ###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=venom&height=150&section=header&reversal=false&text=my%20proyects&fontSize=50&fontColor=E6DAF3&fontAlign=50&fontAlignY=50&stroke=-&strokeWidth=0&animation=fadeIn&descSize=20&descAlign=50&descAlignY=50&textBg=false&color=FFF3B0"  />
+</div>
+
+###
+
+<div>
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=soft&height=10&section=header&reversal=false&fontSize=12&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&color=E6DAF3"  />
+</div>
+
+###
+
+<img src="https://raw.githubusercontent.com/karlithaaa/karlithaaa/output/snake.svg" alt="Snake animation" />
+
+###
