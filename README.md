@@ -10,7 +10,12 @@
 
 ###
 
-<h4 align="left">- 🎓 Engineer in progress / Computer Systems Engineering student<br>- 💻 Specializing in Computer Systems with a focus on Cybersecurity<br>- 🎂 20 years old<br>- ☕ First programming language: Java</h4>
+<h4 align="left">
+- 🎓 Engineer in progress / Computer Systems Engineering student<br>
+- 💻 Specializing in Computer Systems with a focus on Cybersecurity<br>
+- 🎂 20 years old<br>
+- ☕ First programming language: Java
+</h4>
 
 ###
 
@@ -33,9 +38,20 @@
 ###
 
 <div align="center">
-  <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo"  />
+  <!-- Facebook -->
+  <a href="https://www.facebook.com/karlitha.martinez.7359" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="facebook logo" />
+  </a>
+
+  <!-- Gmail -->
+  <a href="mailto:martinezukarla@gmail.com">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
+  </a>
+
+  <!-- Instagram -->
+  <a href="https://www.instagram.com/thmpzs?igsh=MTNnY3JpemxqZjJ4dw==" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
+  </a>
 </div>
 
 ###
